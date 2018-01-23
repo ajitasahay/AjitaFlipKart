@@ -1,0 +1,5 @@
+product.lbl = {\"locator\":\"xpath=//img[@class='_1Nyybr _30XEf0']\",\"desc\":\"product details\"}
+pincode.txt = {\"locator\":\"xpath=//input[@class='_3X4tVa']\",\"desc\":\"pin code text box\"}
+product.name.lbl = {\"locator\":\"xpath=//a[@class='_2cLu-l']\",\"desc\":\"product name\"}
+product.rating.lbl = {\"locator\":\"xpath=(//div[@class='hGSR34 _2beYZw'])[1]\",\"desc\":\"product rating\"}
+check.click = {\"locator\":\"xpath=//span[@class='_2aK_gu']\",\"desc\":\"check button\"}

@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 66.768 sec <<< FAILURE!
+orderSteps(com.ajita_flipkart.steps.OrderSteps)  Time elapsed: 65.51 sec  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Timed out after 30 seconds: Wait time out for flipcard assured to be visible
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'ICPL11467', ip: '10.11.31.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:292)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:475)
+	at com.ajita_flipkart.page.ValidateTestPage.verifyFlipkartAssured(ValidateTestPage.java:36)
+	at com.ajita_flipkart.steps.OrderSteps.orderSteps(OrderSteps.java:33)

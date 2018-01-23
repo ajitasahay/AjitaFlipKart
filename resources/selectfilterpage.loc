@@ -1,0 +1,2 @@
+filter.lbl = {\"locator\":\"xpath=//li[text()='%s']\",\"desc\":\"filter option\"}
+filter.chkbx = {\"locator\":\"xpath=(//div[@class='_1p7h2j'])[1]\",\"desc\":\"filter checkbox option for assured flipkart\"}

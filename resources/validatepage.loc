@@ -1,0 +1,2 @@
+viewdetails.lbl = {\"locator\":\"xpath=//span[.='View Details']\",\"desc\":\"view details option\"}
+verify.flipkartassured = {\"locator\":\"xpath=//span[text()='Flipkart Assured']\",\"desc\":\"flipcard assured\"}

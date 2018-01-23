@@ -1,0 +1,2 @@
+particular.product.rating.lbl = {\"locator\":\"xpath=//div[@class='hGSR34 _2beYZw']\",\"desc\":\"rating\"}
+particular.product.name.lbl = {\"locator\":\"xpath=//h1[@class='_3eAQiD']\",\"desc\":\"name\"}

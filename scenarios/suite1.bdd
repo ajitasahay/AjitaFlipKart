@@ -1,0 +1,14 @@
+
+
+SCENARIO: SampleTest
+META-DATA: {"description":"Sample Test Scenario","groups":["SMOKE"]}
+	
+	Given user opens flipkart application
+	When user selects 'Sarees' from 'Women' section
+	And user choose flipkart Assured filter option
+	And user selects 'Price -- High to Low' filter option
+	Then user selects '0' product
+	And user enter the '560037' pin code
+	Then user select 'View Details' for verify
+END
+

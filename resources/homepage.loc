@@ -1,0 +1,3 @@
+homepage.menu.lnk = {\"locator\":\"xpath=//a[@title='%s']\",\"desc\":\"home page menu link\"}
+homepage.submenu.lnk = {\"locator\":\"xpath=//span[text()='%s']\",\"desc\":\"sub menu link\"}
+login.popup.dismiss = {\"locator\":\"xpath=//button[@class='_2AkmmA _29YdH8']\",\"desc\":\"cancel the login popup\"}
